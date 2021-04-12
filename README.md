@@ -1,6 +1,6 @@
 # Stoom Pizza - Back End
 
-Projetos com dados mock para integração com o front end da pizzaria
+Projeto com dados mock para integração com o front end da pizzaria
 
 Feito em NodeJs
 
