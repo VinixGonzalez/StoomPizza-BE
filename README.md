@@ -1,6 +1,6 @@
 # Stoom Pizza - Back End
 
-- Para rodar este projeto, inicie primeiro o backend.
+Projetos com dados mock para integração com o front end da pizzaria
 
 Feito em NodeJs
 
